@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.hidden {
+    display: none;
+}
+
+.movie-card-container {
+    margin: 0 auto;
+    margin-top: 1.5rem;
+}
